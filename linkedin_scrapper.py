@@ -42,5 +42,5 @@ for job in jobs:
 df = pd.DataFrame(job_list)
 df.to_excel("Montreal_CS_Internships.xlsx", index=False)
 
-print("✅ Job listings saved to Montreal_CS_Internships.xlsx")
+print("working")
 driver.quit()
